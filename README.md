@@ -1,3 +1,2 @@
-# Learning-the-C-Programming-Language-A-Freshman-s-Experience
-This is my C language learning notebook. I write down my notes and code here. Sometimes I get help from AI. I hope it can help others too. Please tell me if you find any mistakes.
-I'm a beginner, and I would be very grateful if anyone could point out any mistakes to me.
+#c语言学习笔记
+这是一个微电子专业的新人在学习c语言时记下的笔记，里面的东西可能有点杂，如果有人原因停留两秒为我纠错，我不胜感激。
